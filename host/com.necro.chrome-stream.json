@@ -1,0 +1,9 @@
+{
+  "name": "com.necro.chrome-stream",
+  "description": "Open a twitch stream in VLC",
+  "path": "~/CS/projects/chromext/chrome-stream/host",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://pbkibdgkejdcombhmhoeagjeflpmhjdk/"
+  ]
+}
